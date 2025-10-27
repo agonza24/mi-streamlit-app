@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+
+# Archivos temporales
+*.pyc
+*.pyo
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
